@@ -142,7 +142,7 @@ window.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('scroll', showModalByScroll);
 });
 
-class menyCard{
+/* class menyCard{
     constructor(src,alt,title,descr,price,parentSelector){
         this.src = src;
         this.alt = alt;
@@ -162,4 +162,4 @@ class menyCard{
         element.innerHTML = `
         
         `}
-}
+} */
